@@ -39,7 +39,8 @@ Upon further investigation I noticed a txt file in the plain text subsection and
 Report
 This case is a suicide. The victim was called Sylvia and she was found by her boyfriend named Joshua Zarkan. On her usb it contained 2 files of significance. One file was a text file which contained a suicide letter claiming she cannot go any longer that she needed help which was created on the 9th of December 2005 at 9:48 EST and was modified on the 22nd of November 2002 at 20:29:46 EST. Another file contained all of Sylvia’s assets which included stocks, bonds, real estate, annuities, savings, and life insurance all of which totaled to $2,796,000.00. the file of her assets was made by on excel by Amelia Philips who works for the company starships CMS which was created also on the 9th of December 2005 at 00:00 but was modified on the 23rd of November 2002 at 4:26:26 EST.
 	The excel file with her assets was made before the suicide text note pleading for help. Only thing fishy was that the modification dates are 2 years before the date they were created. Although she had a boyfriend and a lot of money, she could have killer herself solely because she was not happy with life and was going through things internally.
- 
+
+ 
 Case 2
 In this case I work for a corporation’s IT Security Department. My duties include conduction internal digital investigations and forensics examinations on company computing systems. A paralegal from the law department Ms. Jones asks me to examine a USB drive belonging to an employee who left the company and now works for a competitor due to the concerns that the former employee might have been an insider threat and possessed sensitive company data. I was also told that the former employee had access to confidential documents because he was someone saw him accessing his manger computer on his last day. My task is to find out if it contained any such documents.
 Loaded the image on autopsy.
@@ -81,6 +82,7 @@ f.	Message_h972x
 g.	Message_s528x
 h.	Message_l432x
 i.	Message_j465x
+
 
 Case 3
 In my last case I am an IT security specialist for Superior Sailmakers, a company making sails for sloops and yawls. It sells rigging and sails to many sailboat makers who are competing against one another. Ms. Olsen in the human resources department notifies me that she got an anonymous letter with an old USB drive.  The letter states that a former employee ralph Williams had photos belonging to AC sailboats that contained trade secrets from April 2006 and that after Mr. Williams ended his employment in January 2007, he used photos on the USB drive to get hired by smith sloop boats competitor. I have to examine the contents of any photos to determine whether the anonymous complain it true. 
