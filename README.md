@@ -4,7 +4,7 @@ Autopsy
 
 In this lab I learned how to use Autopsy software for forensics to narrow down clues and important information within data provided. I learned to be patient in looking for information that could help me solve the case in hand. Going to solve some cases and make a report after.
 
-Case 1
+Case 1:
 In this case a suspicious death occurred where Joshua Zarkan found his girlfriend dead in her apartment and reported it to officials. Officers seized a USB drive and a crime scene evidence technician skilled in data acquisition made an image of the drive with FTK imager and secured the drive and placed it in a secure evidence locker at the police station. I received the image file from the detective and directs me to examine it and identify any evidence artifices that might relate to the case. 
 Started up autopsy and loaded the image into the software.
 
@@ -41,7 +41,7 @@ This case is a suicide. The victim was called Sylvia and she was found by her bo
 	The excel file with her assets was made before the suicide text note pleading for help. Only thing fishy was that the modification dates are 2 years before the date they were created. Although she had a boyfriend and a lot of money, she could have killer herself solely because she was not happy with life and was going through things internally.
 
  
-Case 2
+Case 2:
 In this case I work for a corporation’s IT Security Department. My duties include conduction internal digital investigations and forensics examinations on company computing systems. A paralegal from the law department Ms. Jones asks me to examine a USB drive belonging to an employee who left the company and now works for a competitor due to the concerns that the former employee might have been an insider threat and possessed sensitive company data. I was also told that the former employee had access to confidential documents because he was someone saw him accessing his manger computer on his last day. My task is to find out if it contained any such documents.
 Loaded the image on autopsy.
  
@@ -84,7 +84,7 @@ h.	Message_l432x
 i.	Message_j465x
 
 
-Case 3
+Case 3:
 In my last case I am an IT security specialist for Superior Sailmakers, a company making sails for sloops and yawls. It sells rigging and sails to many sailboat makers who are competing against one another. Ms. Olsen in the human resources department notifies me that she got an anonymous letter with an old USB drive.  The letter states that a former employee ralph Williams had photos belonging to AC sailboats that contained trade secrets from April 2006 and that after Mr. Williams ended his employment in January 2007, he used photos on the USB drive to get hired by smith sloop boats competitor. I have to examine the contents of any photos to determine whether the anonymous complain it true. 
  
  <img width="287" height="325" alt="image" src="https://github.com/user-attachments/assets/8f033781-e625-41e3-aa70-9515f51c2b1b" />
